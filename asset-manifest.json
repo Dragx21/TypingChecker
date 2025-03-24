@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/TypingChecker/static/css/main.2072bde9.css",
+    "main.js": "/TypingChecker/static/js/main.cf8f8705.js",
+    "index.html": "/TypingChecker/index.html",
+    "main.2072bde9.css.map": "/TypingChecker/static/css/main.2072bde9.css.map",
+    "main.cf8f8705.js.map": "/TypingChecker/static/js/main.cf8f8705.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2072bde9.css",
+    "static/js/main.cf8f8705.js"
+  ]
+}
